@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_filter">button filter</string>
+    <string name="search_courses">Найти курс…</string>
+    <string name="update_date">По дате обновления</string>
+</resources>
