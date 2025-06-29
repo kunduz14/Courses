@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="profile">Профиль</string>
+    <string name="write_support">Написать в поддержку</string>
+    <string name="settings">Настройки</string>
+    <string name="log_out">Выйти из аккаунта</string>
+    <string name="your_courses">Ваши курсы</string>
+    <string name="fifty_percent">50%</string>
+    <string name="count_lessons_not_completed">/44 уроков</string>
+    <string name="count_lessons_completed">22</string>
+    <string name="rate">4.9</string>
+    <string name="date">22 Мая 2024</string>
+    <string name="title">Java-разработчик с нуля</string>
+</resources>

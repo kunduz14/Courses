@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Главная</string>
+    <string name="favourites">Избранное</string>
+    <string name="account">Аккаунт</string>
+    <string name="button_favourite">button_favourite</string>
+    <string name="more_detail">Подробнее</string>
+    <string name="price_with_ruble">%1$s ₽</string>
+</resources>
